@@ -1,5 +1,3 @@
-## Computer Little Yellow's website.
-
-Welcome to Computer Little Yellow's website.
+## WELCOME!
 
 There are no resources here at this time.
